@@ -86,3 +86,9 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-slate
+
+collections:
+  - staff_members
+
+collections_dir:
+  - collections
