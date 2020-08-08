@@ -8,7 +8,7 @@ Design and implement a ticket booking system for events organized in various cit
 
 
 ### Functional Requirements:
-+ All cities should be listed in drop down. By selecting different city, corresponding events should be displayed.
++ All cities should be listed in dropdown menu. By selecting different city, corresponding events should be displayed.
 
 + Once the customer select a event, available sessions for this event and the seats of the corresponding hall should be displayed. Customer should be able to tell if a seat is available or not.
 
@@ -22,6 +22,10 @@ Please visit for detailed API design.
 
 ### Schemas:
 
-![alt text](https://i.ibb.co/HDpTqxM/schema.png "Logo Title Text 1")
+![Schemas](https://i.ibb.co/8Y4FcHr/Schema.png "Schemas of the System")
 
 ### Infrastructure:
+
+
+### Development Process
+For fast development and make sure the work load can be distributed evenly across the team( if any :) )
