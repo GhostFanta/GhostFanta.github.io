@@ -22,7 +22,7 @@ Please visit for detailed API design.
 
 ### Schemas:
 
-![Schemas](https://i.ibb.co/8Y4FcHr/Schema.png "Schemas of the System")
+![Schemas](https://i.ibb.co/QYz178z/Schemas.png "Schemas of the System")
 
 ### Infrastructure:
 
